@@ -69,4 +69,4 @@ The Jupyter Notebooks serve as the primary instrument for evaluation.
 - **Practice:** 
     - Local LLM deployment and programmatic querying.
     - Tokenizers and Embeddings.
-    - Transfer Learning, Fine-tuning, and Knowledge Distillation in Keras.
+    - Transfer Learning and Fine-tuning in Keras.
